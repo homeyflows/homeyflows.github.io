@@ -73,7 +73,7 @@ var linkMenu = [
   ["JSFiddle",                 "",""],
   ["Stack Overflow",           "",""],
   
-  [svgDownload,                 "magenta",                                     "-HEAD-"], // Download 18
+  [svgDownload 18,                 "magenta",                                     "-HEAD-"], // Download 18
   ["Steam",                    "",""],
   ["Humble Bundle",            "",""],
   ["GOG.com",                  "",""],
