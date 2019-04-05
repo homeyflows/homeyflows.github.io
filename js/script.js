@@ -47,7 +47,7 @@ var svgDownloads = "<svg style=\"width:24px;height:24px\" xmlns=\"http://www.w3.
 */
 // Also yes I could totally use a json object to represent the menus, but I didn't feel like reprogramming the whole script. Probably doing that next site, though.
 var linkMenu = [
-  [svgReddit,                   "blue",                                        "-HEAD-"], // Reddit
+  [svgTrash,                   "blue",                                        "-HEAD-"], // Anime
   ["Athom",         "https://www.athom.com",""],
   ["FB Homey Homies",              "https://www.facebook.com/groups/HomeyHomies",""],
   ["FB Homey Flows",             "https://www.facebook.com/groups/HomeyFlows",""],
