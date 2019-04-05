@@ -49,8 +49,9 @@ var linkMenu = [
   [svgTrash,                   "blue",                                        "-HEAD-"], // Anime
   ["AnimeNewsNetwork",         "",""],
   ["MyAnimeList",              "",""],
-  ["Nyaa Tracker",             "https://www.nyaa.se/",""],
+  ["Nyaa Tracker",             "https://www.nyaa.se",""],
   ["BakaBT",                   "",""],
+  ["FileRio","http://filerio.in",""],
   
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
   ["YouTube",                  "",""],
