@@ -49,7 +49,7 @@ var linkMenu = [
   [svgTrash,                   "blue",                                        "-HEAD-"], // Anime
   ["AnimeNewsNetwork",         "",""],
   ["MyAnimeList",              "",""],
-  ["Nyaa Tracker",             "",""],
+  ["Nyaa Tracker",             ""https://www.nyaa.se""],
   ["BakaBT",                   "",""],
   
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
