@@ -87,7 +87,7 @@ var linkMenu = [
   ["Netflix",                  "",""],
   ["Weather",                  "",""],
   
-  [svgMore,                    "black",                                      "-HEAD-"], // Other
+  [svgMore,                    "pink",                                      "-HEAD-"], // Other
   ["Gmail",                    "",""],
   ["Amazon",                   "",""],
   ["Dropbox",                  "",""],
